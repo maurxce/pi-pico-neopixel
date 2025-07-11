@@ -7,9 +7,9 @@ LED_ON = (255, 255, 255)
 LED_OFF = (0, 0, 0)
 
 # Hardware Configuration
-LED_COUNT = 20
-LED_PIN = 1
-BUTTON_PIN = 17
+LED_COUNT = 34
+LED_PIN = 18
+BUTTON_PIN = 19
 DEBUG_LED_PIN = 25
 
 # Delay Configuration

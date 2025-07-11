@@ -52,6 +52,7 @@ def toggle_leds(state: bool) -> None:
     color = LED_ON if state else LED_OFF
     set_led_color(color)
 
+print("Running!")
 while True:
     current = button.value()
     
